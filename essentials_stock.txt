@@ -1,0 +1,3 @@
+Oil 7 GHC 12.0
+Milo 4 GHC 6.0
+Soap 17 GHC 3.0
